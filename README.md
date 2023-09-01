@@ -1,5 +1,7 @@
 # dirENUM
-A python script that utilizes requests to discover directories/pages.
+A python script that utilizes requests and a wordlist to discover directories/pages.
+
+*Intended for Unix-like systems utilizing ANSI escape codes for colored text, output will look off on Windows but should maintain functionality.*
 
 Libraries:
 
